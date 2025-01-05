@@ -28,7 +28,7 @@
 }
 .navbar-header button.navbar-toggle {
   margin: 15px
-
+}
 
 h1{
 	color: black;
@@ -50,23 +50,6 @@ h2{
 	border: 2px solid black;
 }
 
-/*@media (max-width: 767px) {
-  .col-xs-12 {
-    float: left;
-    width: 95%;
-  }*/
-
- /*.row > div {
-  background-color: lightgrey;
-  opacity: 70%;
-  border: 1px solid black;
-  padding-right: 5px;
-  margin: 5px ;
-  text-align: center;*/
-
  #nav-list{
- 	margin-top: 10px;
+ 	margin-top: 15px;
  }
-.container-fluid{
-	background-color: grey;
-}
